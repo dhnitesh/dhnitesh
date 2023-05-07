@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nitesh Dhungana</h1>
-<h3 align="center">A passionate backend developer from Nepal.I love building web applications using Python Django.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhnitesh&label=Profile%20views&color=0e75b6&style=flat" alt="dhnitesh" /> </p>
 
