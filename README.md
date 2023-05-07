@@ -4,8 +4,9 @@ I'm John, a full-stack developer from San Francisco. I love building web applica
 
 ## Skills
 
-- React
-- Node.js
+- Python
+- Django
+- Postgres SQL
 - JavaScript
 - HTML/CSS
 
