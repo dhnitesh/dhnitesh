@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Dhnitesh/Dhnitesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm John, a full-stack developer from San Francisco. I love building web applications using React and Node.js.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- Node.js
+- JavaScript
+- HTML/CSS
+
+## Projects
+
+- [Portfolio](https://johnportfolio.com)
+- [Blog](https://johnblog.com)
+- [GitHub](https://github.com/john)
+
+## Contact
+
+You can reach me at john@email.com or connect with me on [LinkedIn](https://www.linkedin.com/in/john/).
