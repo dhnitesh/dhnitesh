@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://media.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif" height=300>
-  
-</div>
-
 <h2 align="center">Hey there, fellow coders! It's Nitesh Dhungana.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhnitesh&label=Profile%20views&color=0e75b6&style=flat" alt="dhnitesh" /> </p>
