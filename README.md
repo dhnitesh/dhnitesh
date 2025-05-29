@@ -19,7 +19,7 @@ name: Nitesh Dhungana
 title: Backend Developer
 lives_in: Kathmandu, Nepal 🇳🇵
 stack: [Python, Django, FastAPI, PostgreSQL, Docker]
-hobbies: [Coding, Gaming, Learning, Coffee]
+hobbies: [Coding, Gaming, Learning, Tea]
 ```
 
 ---
