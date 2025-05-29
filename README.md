@@ -45,7 +45,7 @@ Hi! I'm **Nitesh Dhungana**, a passionate **Backend Developer** focused on build
 ---
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=dhnitesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-stats.vercel.app/api?username=dhnitesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dhnitesh&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhnitesh&theme=dark&hide_border=false&layout=compact)
 
