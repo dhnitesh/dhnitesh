@@ -1,64 +1,93 @@
-# 💫 About Me
-Hi! I'm **Nitesh Dhungana**, a passionate **Backend Developer** focused on building efficient, secure, and scalable systems.
+
+<h1 align="center">
+  🚀 Nitesh Dhungana  
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;Python%20Enthusiast;API%20Architect;Open%20Source%20Lover&center=true&width=500&height=40" />
+</h1>
+
+<p align="center">
+  <a href="https://linkedin.com/in/dhnitesh"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/dhungananitesh"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=dhnitesh&style=flat-square&color=green" alt="profile views"/>
+</p>
 
 ---
 
-## 🌐 Connect with Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dhungananitesh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhnitesh)
+## 🧠 About Me
+```yaml
+name: Nitesh Dhungana
+title: Backend Developer
+lives_in: Kathmandu, Nepal 🇳🇵
+stack: [Python, Django, FastAPI, PostgreSQL, Docker]
+hobbies: [Coding, Gaming, Learning, Coffee]
+```
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Toolbox
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+### 👨‍💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+<br/>
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express)
 
-### ⚙️ Backend Frameworks
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+### 🛢️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white)
 
-### 🛠️ DevOps & Deployment
-![Gunicorn](https://img.shields.io/badge/Gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+### 🚀 DevOps & Hosting
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
-### 💾 Databases
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+### 🎨 UI Frameworks
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### 🎨 Frontend
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🧑‍💻 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=dhnitesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhnitesh&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhnitesh&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhnitesh&theme=tokyonight&show_icons=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhnitesh&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhnitesh&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhnitesh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhnitesh&theme=gruvbox&no-bg=true&margin-w=5" />
+</p>
 
 ---
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dhnitesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Repositories
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=dhnitesh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=dhnitesh&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🎯 Fun Fact
+> "I'm not lazy, I'm just on energy-saving mode."
+
+---
+
+<!-- Built with ❤️ by Nitesh. Powered by GPRM (https://gprm.itsvg.in) -->
