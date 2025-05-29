@@ -90,4 +90,4 @@ hobbies: [Coding, Gaming, Learning, Coffee]
 
 ---
 
-<!-- Built with ❤️ by Nitesh. Powered by GPRM (https://gprm.itsvg.in) -->
+<!-- Built with ❤️ by Nitesh. -->
